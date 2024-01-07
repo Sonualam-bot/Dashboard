@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const entrySchema = new mongoose.Schema({
   Day: {
-    type: Date,
+    type: String,
     required: true,
   },
   Age: {

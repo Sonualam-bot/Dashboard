@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.21.1"
+  }
+}
